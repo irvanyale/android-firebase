@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "948445437514",
+    "firebase_url": "https://fir-auth-c4b0c.firebaseio.com",
+    "project_id": "fir-auth-c4b0c",
+    "storage_bucket": "fir-auth-c4b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948445437514:android:0e35cd8d3ff19bd0",
+        "android_client_info": {
+          "package_name": "com.irvanyale.app.androidfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948445437514-qukjr155l2b1dnp05im7ps40pqiqt97c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.irvanyale.app.androidfirebaseauth",
+            "certificate_hash": "9042565e4c0c494a6e663a6d85913b1e01082305"
+          }
+        },
+        {
+          "client_id": "948445437514-eu0gai1vn88hi54uhok27j7tk9at8ktq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5bFARk1Bxt4dVNeQ_-kpyxFLOpHYPiW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948445437514-eu0gai1vn88hi54uhok27j7tk9at8ktq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
